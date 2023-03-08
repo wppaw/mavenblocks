@@ -5,7 +5,7 @@
  * Plugin URI: https://mavenblocks.com
  * Description: A collection of Gutenberg blocks for Maven
  * Version: 1.0.0
- * Author: WPPaw
+ * Author: Team Maven
  * Author URI: https://mavenblocks.com
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
